@@ -23,7 +23,7 @@
     "fs": "0.0.1-security",
     "googleapis": "^39.2.0",
     "inline-css": "^2.4.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "log": "^1.4.0",
     "moment": "^2.22.1",
     "mongo-round": "^1.0.0",
